@@ -1053,4 +1053,4 @@ Ancestor of [45] & [65]: 402
 Ancestor of [128] & [65]: 128
 alex@/tmp/binary_trees$
 ````
-
+![2ojfc2](https://github.com/3zzazakl/binary_trees/assets/140283548/97943e86-ecac-450f-a7e2-2338b47b271d)
