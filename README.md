@@ -1,4 +1,5 @@
 # 0x1D. C - Binary trees
+![[Zzz.jpg]]
 ## Binary Trees Project for ALX.
 
 ## Tasks
