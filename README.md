@@ -1,5 +1,5 @@
 # 0x1D. C - Binary trees
-![[Zzz.jpg]]
+![Zzz](https://github.com/3zzazakl/binary_trees/assets/140283548/b7e9ea43-dba9-4c45-85fd-2c44b86c5be8)
 ## Binary Trees Project for ALX.
 
 ## Tasks
