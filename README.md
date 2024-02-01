@@ -1,7 +1,4 @@
 **Binary Tree Project for ALX:
-**
-
-
 
 
 
