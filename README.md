@@ -1580,3 +1580,4 @@ What are the average time complexities of those operations on a Binary Heap (one
 - Inserting the value n
 - Extracting the root node
 - Searching for a node in a binary heap of size n
+![giphy](https://github.com/3zzazakl/binary_trees/assets/140283548/13efe28d-30b5-4d7d-a900-c0829f0cd8fb)
