@@ -1,6 +1,6 @@
 # 0x1D. C - Binary trees
 ![fxSL](https://github.com/3zzazakl/binary_trees/assets/140283548/e1f7a4af-5fed-4417-bc58-517ce1fa89d7)
-![Zzz](https://github.com/3zzazakl/binary_trees/assets/140283548/b7e9ea43-dba9-4c45-85fd-2c44b86c5be8)
+![image_2024-02-02_035341032](https://github.com/3zzazakl/binary_trees/assets/140283548/51a66545-bbb8-4984-bcc4-1c72a5713df3)
 ## Binary Trees Project for ALX.
 
 ## Tasks
